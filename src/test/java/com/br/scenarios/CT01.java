@@ -9,6 +9,10 @@ import com.br.core.Driver;
 import com.br.pages.IndexPage;
 
 public class CT01 {
+	
+//	Questão 3 - Criar um teste automatizado web com a ferramenta IntelliJ
+//	na linguagem Java com BDD. A Automação deve abranger todos os menus
+//	E submenus do portal auditeste.com.br
 
 	WebDriver driver;
 	IndexPage indexPage;
